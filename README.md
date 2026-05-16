@@ -1,4 +1,4 @@
-# Taller-Prolog-Misiones
+# Taller4-Prolog3
 Resolución del taller 4.
 
 Que hice en este taller:
